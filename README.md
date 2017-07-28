@@ -3,8 +3,8 @@
 
 访问地址（打开以下两个网页）：
 
-- 用户一： http://www.liushuisheng.cn/chat/demo1.html
-- 用户二： http://www.liushuisheng.cn/chat/demo2.html
+- 用户一： [http://www.liushuisheng.cn/chat/demo1.html](http://www.liushuisheng.cn/chat/demo1.html)
+- 用户二： [http://www.liushuisheng.cn/chat/demo2.html](http://www.liushuisheng.cn/chat/demo2.html)
 
 ****
 
