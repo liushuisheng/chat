@@ -1,0 +1,79 @@
+body {
+	font-size: 14px;
+}
+
+h2 {
+	text-align: center;
+}
+
+.chatBox {
+	margin: 0 auto 50px;
+	width: 400px;
+}
+
+.chatBox .inner {
+	margin-bottom: 10px;
+	height: 300px;
+	border: 1px solid #ddd;
+	overflow: scroll;
+}
+
+.chatBox .control input{
+	padding: 0;
+	width: 300px;
+	height: 26px;
+	line-height: 26px;
+}
+
+.chatBox .control button {
+	padding: 0;
+	width: 90px;
+	height: 30px;
+	line-height: 30px;
+	cursor: pointer;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.chatBox ul {
+	padding: 10px;
+}
+
+.chatBox ul:after {
+	display: block;
+	content: '';
+	clear: both;
+}
+
+.chatBox ul li {
+	clear: both;
+	margin-bottom: 6px;
+	float: left;
+	color: red;
+}
+
+.chatBox ul li.owner {
+	float: right;
+	color: green;
+	border-color: green;
+}
+
+.chatBox ul li span {
+	display: inline-block;
+	min-width: 30px;
+	padding: 4px 10px;
+	border: 1px solid red;
+	border-radius: 5px;
+}
+
+.chatBox ul li.owner  span {
+	border-color: green;
+}
+
+.clear {
+	margin-top: 5px;
+}
