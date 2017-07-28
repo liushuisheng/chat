@@ -1,5 +1,11 @@
 # chat
 简易聊天室，利用js本地存储实现两个网页实时对话聊天
+
+访问地址（打开以下两个网页）：
+
+- 用户一： http://www.liushuisheng.cn/chat/demo1.html
+- 用户二： http://www.liushuisheng.cn/chat/demo2.html
+
 ****
 
 ##### 它的基因有如下几点：
